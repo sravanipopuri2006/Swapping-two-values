@@ -28,6 +28,8 @@ val1=val2
 val2=temp
 print("Swapped values are:",val1,val2)
 ##OUTPUT:
-![Alt text](<python 1.png>)
+![Alt text](<python 1-1.png>)
 ## RESULT:
 Thus the swapping of two values are successfully executed 
+
+
